@@ -1,0 +1,20 @@
+path: D:\GenAI-WDSS\data\real\dataset_v2
+train: images/train
+val: images/val
+test: images/test
+nc: 14
+names:
+  0: crop
+  1: weed
+  2: waterhemp
+  3: morningglory
+  4: purslane
+  5: spottedspurge
+  6: carpetweed
+  7: ragweed
+  8: eclipta
+  9: pricklysida
+  10: palmeramaranth
+  11: sicklepod
+  12: goosegrass
+  13: cutleaf
